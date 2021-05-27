@@ -1,0 +1,1 @@
+var favAnime = prompt("What is your fav Anime  ?");

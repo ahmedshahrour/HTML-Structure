@@ -87,7 +87,7 @@ if(condition1){
 // }else{
 //   console.log("welcome to our website");
 // }
-var hXh = "ford";
+var car = "ford";
 
 
 
@@ -98,11 +98,11 @@ alert("welcome to our websit " + userName )
 var favcar = prompt("What is your fav car  ?");
 // console.log(userAge);
 
-if(favcar === hXh ){
+if(favcar === car ){
   // console.log("what do you work ?");
   document.write("<p> Welcome to the car fan </p>")
-}else if(favcar === "AOT"){
-  document.write('<img src="https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/692999/2018-10best-cars-the-best-cars-for-sale-in-america-today-feature-car-and-driver-photo-696572-s-original.jpg?resize=980:*" width="250px" alt="AOT"/>')
+}else if(favcar === "toyota"){
+  document.write('<img src="https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/images/media/692999/2018-10best-cars-the-best-cars-for-sale-in-america-today-feature-car-and-driver-photo-696572-s-original.jpg?resize=980:*" width="250px" alt="toyota"/>')
 }else{
   alert('please next time answer either ford or Mercedes ')
 }
